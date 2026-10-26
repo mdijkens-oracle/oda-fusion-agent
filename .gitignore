@@ -1,0 +1,24 @@
+# Private local settings and authentication material.
+.env
+.env.*
+!.env.example
+.local/
+.oci/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencies, caches and generated component packages.
+node_modules/
+coverage/
+*.log
+*.tgz
+*.zip
+*.7z
+
+# Local screenshots and video assets.
+/mdFusionAgent.png
+/video/
+*.mp4
+*.wav

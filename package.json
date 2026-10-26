@@ -1,0 +1,21 @@
+{
+  "name": "mdFusionAgent",
+  "version": "3.0.0",
+  "license": "MIT",
+  "description": "Fusion token acquisition and workflow calls for ODA demos",
+  "main": "main.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "files": [
+    "main.js",
+    "components",
+    "lib",
+    "README.md"
+  ],
+  "dependencies": {},
+  "bundleDependencies": []
+}
