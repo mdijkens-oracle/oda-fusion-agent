@@ -15,8 +15,13 @@ The intended GitHub repository name is `oda-fusion-agent`.
 
 ## Demo video
 
-An ODA-to-Fusion walkthrough video has been recorded. A link will be added once
-it is published. Video files and production assets are not included here.
+[Watch the ODA-to-Fusion walkthrough on YouTube](https://www.youtube.com/watch?v=IqAvPqQiTv8).
+
+The Fusion workflow shown is an example. Supply your own published workflow;
+the recorded demo does not provide access to that workflow or environment.
+
+Related video: [DAC with Fusion](https://www.youtube.com/watch?v=Qy8zR7_i_u4)
+provides additional architecture context.
 
 ## Prerequisites
 
@@ -206,5 +211,3 @@ shows the separate EAI integration route.
 
 This project is licensed under the [MIT License](LICENSE).
 Copyright (c) 2026 M. Dijkens.
-
-
